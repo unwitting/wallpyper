@@ -3,6 +3,15 @@ wallpyper
 
 Tiny Python module handling Linux wallpaper changes
 
+Installation
+============
+
+```
+pip install wallpyper
+```
+
+That's it - pip's great :D
+
 Usage
 =====
 
