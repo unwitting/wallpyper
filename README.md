@@ -6,16 +6,19 @@ Tiny Python module handling Linux wallpaper changes
 Usage
 =====
 
-```python
-import wallpyper
-path = wallpyper.get_wallpaper()
-wallpyper.set_wallpaper(path)
-```
+	import wallpyper
+	path = wallpyper.get_wallpaper()
+	wallpyper.set_wallpaper(path)
+
+Contribute
+==========
+
+wallpyper is maintained on Github at https://github.com/unwitting/wallpyper
 
 License
 =======
 
-Wallpyper is of course completely open, under the MIT license:
+wallpyper is of course completely open, under the MIT license:
 
 The MIT License (MIT)
 
