@@ -1,8 +1,8 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(
 	name = 'wallpyper',
-	version = '0.0.1',
+	version = '0.0.4',
 	author = 'https://github.com/unwitting',
 	author_email = 'jackprestonuk@gmail.com',
 	packages = ['wallpyper'],
